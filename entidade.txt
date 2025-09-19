@@ -1,1 +1,2 @@
 Inclusão dos atributos
+Inclussão dos metodos
